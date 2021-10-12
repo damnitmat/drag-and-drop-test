@@ -1,0 +1,23 @@
+.left-box {
+    width: 900px;
+    height: 500px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    margin-right: 3px;
+    padding: 3px;
+}
+
+.right-box {
+    width: 300px;
+    height: 500px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 3px;
+}
+
+.top-level-container {
+    display: flex;
+    flex-direction: row;
+}
